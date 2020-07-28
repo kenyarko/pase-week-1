@@ -1,0 +1,42 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 40px;
+  padding: 10px;
+  box-shadow: opx 10px 20px rgba(0, 0, 0, 0.16);
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+
+  object-fit: cover;
+  object-position: center;
+}
+
+.row{
+  height: 40vh;
+}
+
+.text-center {
+  display: grid;
+  place-content: center;
+}
+
+ main {
+  padding: 0px;
+  display: flex;
+
+ 
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+} 
+
+
+.center-content {
+  display: grid;
+  place-content: center;
+}
+
+

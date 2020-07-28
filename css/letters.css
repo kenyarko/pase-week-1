@@ -1,0 +1,53 @@
+.font{
+    line-height: 15px;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.text-center{
+    font-weight: bolder;
+}
+
+
+nav .two{
+    background-color: green;
+    background-size: 60px;
+    
+    
+}
+div .one{
+    background-color: thistle;
+    background-size: 60px;
+}
+
+nav {
+    background-color: red;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+    width: 30%;
+    color: #fff;
+     }
+
+    
+
+    .in {
+        background-color: transparent;
+  padding: 10px 20px;
+  font-size: 2rem;
+  border: 1px solid crimson;
+  border-radius: 40px;
+  
+    }
+   
+
+
+
+
+ 
